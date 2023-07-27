@@ -28,7 +28,7 @@ I am a driven software engineer, with 10 years of experience in product manageme
 </div>
 <div>
   <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="my gmail email" width="30" height="auto" style="margin: 0;" /> 
-  <a href="mailto:jgoh0888@google.com" >jgoh0888@google.com</a>
+  <a href="mailto:jgoh0888@gmail.com" >jgoh0888@gmail.com</a>
 </div>
 <!--
 **jgoh88/jgoh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

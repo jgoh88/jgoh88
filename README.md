@@ -22,9 +22,9 @@ I am a driven software engineer, with 10 years of experience in product manageme
 </p>
 
 ## 🔗 Let's Connect
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin profile" width="20" height="auto" /> [in/jarrodgoh](https://www.linkedin.com/in/jarrodgoh/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin profile" width="30" height="auto" /> [in/jarrodgoh](https://www.linkedin.com/in/jarrodgoh/)  
 
-<img src="https://icons8.com/icon/37246/gmail-logo.png" alt="my gmail email" width="20" height="auto" /> [jgoh0888@google.com](mailto:jgoh0888@google.com)
+<img src="https://img.icons8.com/color/48/gmail--v1.png" alt="my gmail email" width="30" height="auto" /> [jgoh0888@google.com](mailto:jgoh0888@google.com)
 </p>
 
 <!--

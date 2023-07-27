@@ -18,15 +18,17 @@ I am a driven software engineer, with 10 years of experience in product manageme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
 </p>
 
 ## 🔗 Let's Connect
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin profile" width="30" height="auto" /> [in/jarrodgoh](https://www.linkedin.com/in/jarrodgoh/)  
-
-<img src="https://img.icons8.com/color/48/gmail--v1.png" alt="my gmail email" width="30" height="auto" /> [jgoh0888@google.com](mailto:jgoh0888@google.com)
-</p>
-
+<div>
+  <img align="bottom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin profile" width="30" height="auto" style="margin: 0;" /> 
+  <a href="https://www.linkedin.com/in/jarrodgoh/" >in/jarrodgoh</a>
+</div>
+<div>
+  <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="my gmail email" width="30" height="auto" style="margin: 0;" /> 
+  <a href="mailto:jgoh0888@google.com" >jgoh0888@google.com</a>
+</div>
 <!--
 **jgoh88/jgoh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
